@@ -1,0 +1,15 @@
+/*
+* Selector: Element that will apply styles
+* Property: Something that make a change
+* Value: Value that the property will have
+* Property:Value -> declaration
+* Set of Selector+declaration will call rule
+*/
+
+/*
+selector{
+    property: value;
+    property2: value;
+    propertyN: value
+}
+*/
