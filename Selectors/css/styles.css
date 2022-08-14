@@ -1,0 +1,29 @@
+/* Universal */
+
+*{
+    background-color: bisque;
+
+}
+
+/* Label */
+h1{
+    background-color: azure;
+}
+
+p{
+    background-color: aquamarine;
+}
+
+/* id */
+#title{
+    background-color: lightblue;
+}
+
+/* class = no limit */
+.title{
+    background-color: rgb(150, 55, 238);
+}
+
+/* attributes [] */
+
+
